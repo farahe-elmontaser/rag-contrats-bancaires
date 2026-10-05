@@ -42,8 +42,9 @@ with onglet_questions:
             data = requests.post(f"{API}/question", timeout=600, json={
                 "texte": question, "contrat": None if choix == TOUS else choix}).json()
         st.markdown(data["reponse"])
-        st.caption("Sources : " + ", ".join(
-            f"{s['contrat']} (article {s['article']})" for s in data["sources"]))
+        if data["sources"]:
+            st.caption("Sources : " + ", ".join(
+                f"{s['contrat']} (article {s['article']})" for s in data["sources"]))
 
 with onglet_extraction:
     if not contrats:

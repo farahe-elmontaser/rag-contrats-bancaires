@@ -1,0 +1,16 @@
+question;attendu;reponse;reponse_ok;contrat_attendu;contrat_ok
+Quel est le TEG du prêt personnel non affecté ?;12,20;Le TEG du prêt personnel non affecté est de 12,20 %.;True;contrat_07;True
+Quel est le montant de l'échéance finale (ballon) du crédit automobile avec échéance finale majorée ?;54000;L'échéance finale (ballon) du crédit automobile avec échéance finale majorée est de 54 000 MAD.;True;contrat_18;True
+Quelle est la durée en mois du prêt immobilier pour construction de villa ?;300;La durée d'amortissement du prêt immobilier pour construction de villa est de 300 mois.;True;contrat_02;True
+Quelle est la marge de la Mourabaha automobile ?;7,00;La marge de la Mourabaha automobile est de 30 091,51 MAD, équivalent annuel indicatif de 7,00 % selon l'Article 2 du contrat n° 29.;True;contrat_29;True
+Quel est le montant du crédit de promotion immobilière ?;12000000;Le montant du crédit de promotion immobilière est de 12 000 000 MAD.;True;contrat_25;True
+Quel est le TEG du rachat de crédit immobilier ?;6,52;Le TEG du rachat de crédit immobilier est de 6,52 %.;True;contrat_05;True
+Quelle est la mensualité du prêt immobilier à taux fixe pour acquisition ?;6006,86;La mensualité du prêt immobilier à taux fixe pour acquisition est de 6 006,86 MAD.;True;contrat_01;True
+Quel est le montant du prêt d'équipement pour auto-entrepreneur ?;100000;Le montant du prêt d'équipement pour auto-entrepreneur est de 100 000 MAD.;True;contrat_24;True
+Quelle est l'indemnité de remboursement anticipé du crédit d'investissement PME ?;3%;L'indemnité de remboursement anticipé du crédit d'investissement PME est de 3 % du capital remboursé par anticipation.;True;contrat_22;True
+Quel est le taux nominal du crédit véhicule électrique à taux bonifié ?;5,90;Le taux nominal bonifié du crédit véhicule électrique à taux bonifié est de 5,90 % HT, soit 6,49 % TTC.;True;contrat_17;True
+Quel est le TEG du crédit deux-roues ?;12,81;Le TEG du crédit deux-roues est de 12,81 %.;True;contrat_16;True
+Quel est le montant du prêt au logement social avec garantie publique ?;250000;Le montant du prêt au logement social avec garantie publique est de 250 000 MAD.;True;contrat_04;True
+Quel est le numéro de téléphone du service client de Banque Zénith Maroc ?;(refus);Cette information ne figure pas dans les contrats fournis.;True;;
+Quelle est la couleur du véhicule financé par le crédit deux-roues ?;(refus);Cette information ne figure pas dans les contrats fournis.;True;;
+Quel est le salaire mensuel de l'emprunteuse du rachat de crédit immobilier ?;(refus);Cette information ne figure pas dans les contrats fournis.;True;;
