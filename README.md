@@ -81,7 +81,7 @@ rag-contrats-bancaires/
 
 ```bash
 # 1. Cloner le projet
-git clone https://github.com/FARAHEltem/rag-contrats-bancaires.git
+git clone https://github.com/farahe-elmontaser/rag-contrats-bancaires.git
 cd rag-contrats-bancaires
 
 # 2. Installer les bibliothèques
@@ -141,14 +141,16 @@ Les contrats sont **entièrement fictifs** (prêteurs, emprunteurs, identifiants
 
 ## 📈 Évaluation
 
-> *À compléter avec vos résultats.*
+Évaluation sur **15 questions** (`src/evaluation.py`, résultats détaillés dans [`resultats_evaluation.csv`](resultats_evaluation.csv)) : 12 questions factuelles dont la réponse figure dans un contrat, et 3 questions pièges dont la réponse n'existe pas.
 
 | Indicateur | Résultat |
 |---|---|
-| Questions testées | 15 |
-| Bonnes réponses | 12 / 12 (100 %) |
-| Bon contrat retrouvé par la recherche | 12 / 12 (100 %) |
-| Refus correct quand l'information est absente | X / 3 |
+| Bonnes réponses (questions factuelles) | **12 / 12** (100 %) |
+| Bon contrat retrouvé par la recherche | **12 / 12** (100 %) |
+| Refus correct quand l'information est absente | **3 / 3** (100 %) |
+| **Total** | **15 / 15** |
+
+> Ces résultats portent sur un petit jeu de test construit à la main : ils montrent que le pipeline fonctionne, mais un jeu de questions plus large serait nécessaire pour une évaluation robuste.
 
 ## 🧭 Choix techniques
 
@@ -170,6 +172,6 @@ Les contrats sont **entièrement fictifs** (prêteurs, emprunteurs, identifiants
 
 Projet réalisé à des fins de formation. L'assistant est une **aide à la lecture** et ne remplace pas l'avis d'un juriste ou d'un conseiller bancaire.
 
-## 👤 Auteur
+## 👤 Auteure
 
-**El-Montaser Farahe** – [LinkedIn](https://www.linkedin.com/in/farahe-el-montaser-30a422368) · [GitHub](https://github.com/FARAHEltem)
+**Farahe El-Montaser** – [LinkedIn](https://www.linkedin.com/in/farahe-el-montaser-30a422368) · [GitHub](https://github.com/farahe-elmontaser)
