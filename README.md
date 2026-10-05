@@ -4,8 +4,7 @@ Assistant intelligent qui **répond aux questions sur des contrats de crédit** 
 
 Tout fonctionne **en local** avec Ollama : aucune donnée ne quitte la machine, ce qui est essentiel pour des documents bancaires confidentiels.
 
-![Interface de l'assistant]("C:\Users\farah\Pictures\Screenshots\interface.png.png")
-
+![Interface de l'assistant](images/interface.png)
 ---
 
 ## 🎯 Le problème
