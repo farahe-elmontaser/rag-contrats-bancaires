@@ -172,4 +172,4 @@ Projet réalisé à des fins de formation. L'assistant est une **aide à la lect
 
 ## 👤 Auteur
 
-**[El-Montaser Farahe]** – [LinkedIn](https://www.linkedin.com/in/farahe-el-montaser-30a422368) · [GitHub](https://github.com/FARAHEltem)
+**El-Montaser Farahe** – [LinkedIn](https://www.linkedin.com/in/farahe-el-montaser-30a422368) · [GitHub](https://github.com/FARAHEltem)
