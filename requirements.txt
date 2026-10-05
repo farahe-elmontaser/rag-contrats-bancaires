@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+chromadb
+pymupdf
+langchain-text-splitters
+requests
+streamlit
+ipykernel
